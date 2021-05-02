@@ -67,7 +67,7 @@ public class mainController extends minecraft{
         	
         	//clears the text fields
         	nameOfItem.setText("");
-        	numOfItem.setText("");
+        	numOfItem.setText(""); 
     	}
     	
     	//temp printing
