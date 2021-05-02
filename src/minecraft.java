@@ -70,6 +70,20 @@ public class minecraft {
 	}
 	
 	
+	public void printData(ArrayList<String> x, ArrayList<Integer> y, ArrayList<Integer> z) {
+		
+		for(int i  = 0; i < x.size(); i++) {
+			for(int j  = 0; j < y.size(); j++) {
+				for(int k  = 0; k < z.size(); k++) {
+					
+				}
+			}
+		}
+		
+		
+	}
+	
+	
 	
 	
 	
