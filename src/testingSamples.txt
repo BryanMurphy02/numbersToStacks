@@ -1,0 +1,4 @@
+wool: 54
+grass: 256
+stone: 69
+gold: 72
